@@ -1,0 +1,10 @@
+.Item-content{
+    /* background-color: #babab0; */
+    
+    padding: 24px;
+    font-size: 15px;
+}
+
+.button{
+    float: right;
+}
