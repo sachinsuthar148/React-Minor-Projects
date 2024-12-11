@@ -1,0 +1,35 @@
+.outer-container{
+  display: flex;
+}
+
+.main-container{
+  width: 100%;
+}
+
+.sidebar{
+  min-height: 742px;
+}
+
+
+.post-card{
+  margin: 34px 30px;
+  height: 30px;
+}
+
+.post-list{
+  display: flex;
+  flex-wrap: wrap;
+ 
+  
+}
+
+.form-container{
+  margin: 30px 58px;
+}
+
+.footer{
+  display: block;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
